@@ -1,0 +1,1 @@
+devenv Builder.sln /rebuild debug

@@ -1,0 +1,14 @@
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\bin\Debug\PluggableCommService.exe.config
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\bin\Debug\PluggableCommService.exe
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\bin\Debug\PluggableCommService.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\bin\Debug\IService.dll
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\bin\Debug\TestUtilities.exe
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\bin\Debug\IService.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\bin\Debug\IService.dll.config
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\bin\Debug\TestUtilities.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\bin\Debug\TestUtilities.exe.config
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\obj\Debug\MessagePassingCommService.csprojAssemblyReference.cache
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CoreCompileInputs.cache
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\obj\Debug\MessagePassingCommService.csproj.CopyComplete
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\obj\Debug\PluggableCommService.exe
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\MessagePassingComm\MessagePassingCommService\obj\Debug\PluggableCommService.pdb

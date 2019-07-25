@@ -1,0 +1,140 @@
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\Client.exe.config
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\Client.exe
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\Client.pdb
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\IService.dll
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\PluggableCommService.exe
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\TestUtilities.exe
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\IService.pdb
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\IService.dll.config
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\PluggableCommService.pdb
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\PluggableCommService.exe.config
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\TestUtilities.pdb
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\bin\Debug\TestUtilities.exe.config
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\MainWindow.g.cs
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\App.g.cs
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\Client_MarkupCompile.cache
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\Client_MarkupCompile.lref
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\MainWindow.baml
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\Client.g.resources
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\Client.exe
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 3\Builder\Client\obj\Debug\Client.pdb
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\Client.exe.config
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\Client.exe
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\Client.pdb
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\IService.dll
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\PluggableCommService.exe
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\TestRequest.dll
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\TestUtilities.exe
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\IService.pdb
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\IService.dll.config
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\PluggableCommService.pdb
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\PluggableCommService.exe.config
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\TestRequest.pdb
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\TestRequest.dll.config
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\TestUtilities.pdb
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\bin\Debug\TestUtilities.exe.config
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\MainWindow.g.cs
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\Popup.g.cs
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\App.g.cs
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\Client_MarkupCompile.cache
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\Client_MarkupCompile.lref
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\MainWindow.baml
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\Popup.baml
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\Client.g.resources
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\Client.Properties.Resources.resources
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\Client.exe
+F:\Master of Science_Syracuse University\CSE 681\Project\Project 4\Code\Project 4\Builder\Client\obj\Debug\Client.pdb
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\Client.exe.config
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\Client.exe
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\Client.pdb
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\IService.dll
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\PluggableCommService.exe
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\TestRequest.dll
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\TestUtilities.exe
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\IService.pdb
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\IService.dll.config
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\PluggableCommService.pdb
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\PluggableCommService.exe.config
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\TestRequest.pdb
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\TestRequest.dll.config
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\TestUtilities.pdb
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\TestUtilities.exe.config
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\MainWindow.g.cs
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Popup.g.cs
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\App.g.cs
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client_MarkupCompile.cache
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client_MarkupCompile.lref
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\MainWindow.baml
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Popup.baml
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.g.resources
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.exe
+E:\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\Client.exe.config
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\Client.exe
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\Client.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\IService.dll
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\PluggableCommService.exe
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\TestRequest.dll
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\TestUtilities.exe
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\IService.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\IService.dll.config
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\PluggableCommService.exe.config
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\TestRequest.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\TestRequest.dll.config
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\bin\Debug\TestUtilities.exe.config
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\MainWindow.g.cs
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Popup.g.cs
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\App.g.cs
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client_MarkupCompile.cache
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client_MarkupCompile.lref
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\MainWindow.baml
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Popup.baml
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.g.resources
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.Properties.Resources.resources
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.csproj.CopyComplete
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.exe
+F:\M.S. Syracuse University Study Folder\CSE 681\aabhosal_2017-12-06-235543_Project 4_Submission(958937955)\Project 4_Submission(958937955)\Project 4\Builder\Client\obj\Debug\Client.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\Client.exe.config
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\Client.exe
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\Client.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\IService.dll
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\PluggableCommService.exe
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\TestRequest.dll
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\TestUtilities.exe
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\IService.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\IService.dll.config
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\PluggableCommService.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\PluggableCommService.exe.config
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\TestRequest.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\TestRequest.dll.config
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\TestUtilities.pdb
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\bin\Debug\TestUtilities.exe.config
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Client.csprojAssemblyReference.cache
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\MainWindow.g.cs
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Popup.g.cs
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\App.g.cs
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Client_MarkupCompile.cache
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Client_MarkupCompile.lref
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\MainWindow.baml
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Popup.baml
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Client.g.resources
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Client.Properties.Resources.resources
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Client.csproj.CopyComplete
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Client.exe
+F:\M.S. Syracuse University Study Folder\CSE 681\Project 4\Client\obj\Debug\Client.pdb

@@ -1,0 +1,23 @@
+
+  Demonstrating Robust Test Loader
+ ==================================
+
+  Loading Test Modules from:
+    C:\SU\CSE681\code\DLLLOA~1\compile\Testers
+
+  loaded Interfaces.dll
+  loaded TestedLib.dll
+  loaded TestLib.dll
+  attempting to create instance of DllLoaderDemo.Test1
+  constructing instance of Test1
+  Test #1:
+    constructing instance of Tested
+    Production code - TestedLib
+  attempting to create instance of DllLoaderDemo.Test2
+  constructing instance of Test2
+  Test #2:
+    constructing instance of Tested
+    Production code - TestedLib
+
+  Simulated Testing completed
+
